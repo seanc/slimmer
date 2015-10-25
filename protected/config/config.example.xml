@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+  <database>
+    <host>127.0.0.1</host>
+    <name>coolness</name>
+    <user>root</user>
+    <pass>root</pass>
+  </database>
+  <something>
+    <somethingelse>something other than something else</somethingelse>
+  </something>
+</config>
